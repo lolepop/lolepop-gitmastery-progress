@@ -231,5 +231,15 @@
       "Unexpected files in working directory. Looks like you used the wrong reset mode."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1768918897.799843,
+    "completed_at": 1768918902.118834,
+    "comments": [
+      "Unexpected files in working directory. Looks like you used the wrong reset mode.",
+      "Unexpected files in staging area. Looks like you used the wrong reset mode."
+    ],
+    "status": "Incomplete"
   }
 ]
